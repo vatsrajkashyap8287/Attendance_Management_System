@@ -30,21 +30,5 @@ Each subject creates a separate CSV file with the following format:
 | 101 | John Doe | 2024-04-03 | 09:15:32 |
 | 102 | Jane Smith | 2024-04-03 | 09:16:05 |
 
----
-
-## 📦 Requirements
-
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
-Key packages:
-```
-opencv-python
-numpy
-pandas
-```
-
 
 
